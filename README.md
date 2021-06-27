@@ -37,7 +37,7 @@
 33.  Riding on the shoulders of the giants is best, the possibility of a better way is done only with rule #7. 👀 
 34.  Luck plays a part in success and failure, but luck favors the competent, hard-working one, the one knowing rule #7. 👀 
 35.  In the midst of a catastrophe, if you don’t know where the “Fire” started, then you will surely “Burn” in it.
-36.  Lastly, because it is most important, never tell a lie!
+36.  Lastly, and important, **_Never Tell a Lie!_**
 
 
 
