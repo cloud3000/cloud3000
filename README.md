@@ -22,18 +22,18 @@
 10. Redundancy can be an illusion. Build on rock-solid hardware and never assume otherwise.
 11. Don't be afraid to fail, failure is a prerequisite to success.
 12. Build a prototype whenever you can.
-13. Constructive criticism is a gift to the person receiving it.
+13. Constructive criticism is a gift to the person receiving it. Destructive criticism is only for the critic.
 14. Simplicity is always the right goal, but getting there is often the hardest path.
 15. The more complex your design, the louder the criticism will be.
 16. A recovery plan is more valuable than any other plan you have.
 17. Design first. Code last.
-18. Innovation without action is just a forgotten idea.
+18. Innovation without action is just an idea to be forgotten.
 19. When you find something that works, use it again and again without hesitation.
 20. Optimism and a spirit of invention are the best qualities an engineer can have.
 21. Keep your technical knowledge current.
 22. Documentation decays from reality over time.
 23. Ask questions openly and answer them honestly.
-24. A reviewer whose only purpose is to review will eventually become the enemy of every good system.
+24. A reviewer whose only purpose is only to review will eventually become the enemy of every good system.
 25. Never throw away a version that works, even if you're confident the new one is better.
 26. Time and preparation are the only real paths to full recovery.
 27. A small task done carelessly can bring down a large task done perfectly.
