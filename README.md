@@ -45,5 +45,6 @@
 33. Standing on the shoulders of those who came before you is almost always the smartest move.
 34. Luck plays a role in both success and failure, but luck tends to favor the skilled, the prepared, and the ones who live by Rule 7.
 35. In the middle of a crisis, if you don't know where the fire started, you will get burned by it.
-36. Last, because it matters most, never lie.
+36. Automation is a first class citizen. Design before code, Automate before Design.
+37. Last, because it matters most, never lie.
 
