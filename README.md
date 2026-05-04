@@ -39,7 +39,7 @@
 27. A small task done carelessly can bring down a large task done perfectly.
 28. To the executive: learn the language of your technical team.
 29. Always schedule enough time. If you don't, the one who inherits your unfinished work will pay for it.
-30. Charge what you're worth! As a good reputation will always outlasts your price tag.
+30. Charge what you're worth! As a good reputation will always outlasts it's price tag.
 31. Don't just take the next order and run with it, because a software engineer is not a short-order cook.
 32. Those who ignore history and rely only on what they know today will spend their careers rebuilding things that already failed.
 33. Standing on the shoulders of those who came before you is almost always the smartest move.
