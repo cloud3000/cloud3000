@@ -33,14 +33,14 @@
 21. Keep your technical knowledge current.
 22. Documentation decays from reality over time.
 23. Ask questions openly and answer them honestly.
-24. A reviewer whose only purpose is only to review will eventually become the enemy of every good system.
+24. A reviewer whose only purpose is to review will eventually become the enemy of every good system.
 25. Never throw away a version that works, even if you're confident the new one is better.
 26. Time and preparation are the only real paths to full recovery.
 27. A small task done carelessly can bring down a large task done perfectly.
 28. To the executive: learn the language of your technical team.
 29. Always schedule enough time. If you don't, the one who inherits your unfinished work will pay for it.
-30. Your reputation outlasts your price tag.
-31. Don't just take the next order and run with it.
+30. Charge what you're worth! As a good reputation will always outlasts your price tag.
+31. Don't just take the next order and run with it, because a software engineer is not a short-order cook.
 32. Those who ignore history and rely only on what they know today will spend their careers rebuilding things that already failed.
 33. Standing on the shoulders of those who came before you is almost always the smartest move.
 34. Luck plays a role in both success and failure, but luck tends to favor the skilled, the prepared, and the ones who live by Rule 7.
